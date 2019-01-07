@@ -76,7 +76,7 @@
     <protobuf.version>2.5.0</protobuf.version>
     <hikari.version>2.7.2</hikari.version>
     <kafka.version>0.10.0.1</kafka.version>
-    <jinjava.version>2.2.10</jinjava.version>
+    <jinjava.version>2.4.7</jinjava.version>
     <jopt.version>5.0.3</jopt.version>
     <slf4j.version>1.7.16</slf4j.version>
     <spark.version>2.2.0</spark.version>
